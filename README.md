@@ -1,2 +1,3 @@
-# Ola Mundo
- repositorio teste 
+# Olá, Mundo!
+ repositorio teste do curso em videos
+  
